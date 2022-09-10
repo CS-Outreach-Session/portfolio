@@ -40,7 +40,7 @@ All modules in Computing are marked by the Module Lead for the module. As such I
 
 My approach to assessment is to give students a general description of the task(s) required then a more detailed description of the steps involved. As part of the assessment brief I provide a marking scheme which breaks down how the marks for the assessment are awarded based on each task/step. Students should be able to use the marking scheme to identify which parts of the assessment require most effort.  
 
-**Relavant Pages : ** [Marking](../CaseStudies/Marking.md)  
+**[Relavant Pages : ** Marking](../CaseStudies/Marking.md)  
 
 ## A4 - Develop effective learning environments and approaches to student support and guidance
 
@@ -50,7 +50,7 @@ During the pandemic I was able to find and utilise an online/web-page based Java
 
 We also began recording the lectures (audio and video) during the pandemic and have continued that process.  
 
-**Relavant Pages : ** [Online Teaching](../CaseStudies/OnlineTeaching.md), [Learning Requirements](../CaseStudies/learningrequirements.md) and [Pedagogy](../CaseStudies/pedagogy.md). 
+**[Relavant Pages : ** [Online Teaching](../CaseStudies/OnlineTeaching.md), [Learning Requirements](../CaseStudies/learningrequirements.md) and [Pedagogy](../CaseStudies/pedagogy.md). 
 
 ## A5 - Engage in continuing professional development in subjects/disciplines and their pedagogy, incorporating research, scholarship and the evaluation of professional practices
 
